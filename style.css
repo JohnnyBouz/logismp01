@@ -3,5 +3,8 @@ h1{
     color:plum;
 }
 div{
+    width:80%;
     color:purple;
+    border:1px solid gray;
+    padding:20px;
 }

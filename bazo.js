@@ -1,1 +1,1 @@
-alert('Bazo world');
+alert('Main world 2');
